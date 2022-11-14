@@ -13,7 +13,7 @@
 ### Pengertian
   
 <p align="center">
-<i> <b> Crack Adalah toold yang di rancang khusus untuk sebuah keperluan mengambil akun / yang kalin sebut dengan crack nah tools crack kali ini yang saya buat Adalah tools crack yang sederhana namun tools ini tidak kalah dari tools lainya Tools ini Terdapat menu yang istimewa yaitu nolongin</b> <i>
+<i> <b> Crack Adalah tools yang di rancang khusus untuk sebuah keperluan mengambil akun / yang kalin sebut dengan crack nah tools crack kali ini yang saya buat Adalah tools crack yang sederhana namun tools ini tidak kalah jauh dari tools-tools lainya Tools ini Terdapat menu yang istimewa yaitu nolongin anda tidak perlu login untuk crack </b> <i>
 
   
 #
