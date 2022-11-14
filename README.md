@@ -5,7 +5,7 @@
 <i> <b> Wellcome To My Tools Jmbff<i>
 <p align="center">
 </p>
-<img src="https://user-images.githubusercontent.com/114745698/197183521-f4a176bd-e45c-4d37-868e-95948f099cb8.jpg">
+<img src="https://user-images.githubusercontent.com/114745698/201603539-beca244e-6819-47ec-aa6a-d7ebfb4a5543.jpg">
 </p>
 <p align="center">
 
@@ -13,7 +13,7 @@
 ### Pengertian
   
 <p align="center">
-<i> <b> Jmbff adalah sebuah alat untuk melakukan sebuah bruteforce di latar belakang dengan memerlukan terminal Termux / Pydroid / Kali linux. Tools ini login menggunakan akses cookie dengan menggunakan cookie maka akan semakin mudah untukmu masuk kedalam tools ini...</b> <i>
+<i> <b> Crack Adalah toold yang di rancang khusus untuk sebuah keperluan mengambil akun / yang kalin sebut dengan crack nah tools crack kali ini yang saya buat Adalah tools crack yang sederhana namun tools ini tidak kalah dari tools lainya Tools ini Terdapat menu yang istimewa yaitu nolongin</b> <i>
 
   
 #
@@ -21,17 +21,21 @@
       pkg upadate && pkg upgrade
       pkg install python
       pkg install git
-      git clone https://github.com/Jeeck-XD/JMBFF
+      git clone https://github.com/Jeeck-XD/Crack
       cd JMBFF
-      pip install -r requirements.txt
       ls
       git pull
-      python JMBFF.py
+      python run.py
+
+
+      
+     
+     
 ### Update tools 
-      cd JMBFF
+      cd Crack
       git pull
       ls
-      python JMBFF.py
+      python run.py
 
 
 
